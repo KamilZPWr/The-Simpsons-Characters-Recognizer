@@ -1,2 +1,1 @@
 # The Simpsons Characters Recognizer
-
